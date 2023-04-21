@@ -1,0 +1,19 @@
+.items-nav {
+  /* width: 1000px !important; */
+  column-gap: 1000px;
+  justify-content: center !important;
+}
+
+.fondo {
+  background-color: #343a40;
+}
+
+.cardDigimon {
+  width: 200px;
+  height: 450px;
+}
+
+.logo {
+  width: 140px;
+  height: 100px;
+}
